@@ -1,0 +1,22 @@
+{
+  "name": "7.-tea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Stepan Nimchuk",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "core-js": "^3.26.1",
+    "lodash": "^4.17.21",
+    "regenerator-runtime": "^0.13.11"
+  }
+}
